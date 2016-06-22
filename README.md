@@ -1,4 +1,5 @@
 # phase-0-gps-1
+[gps photo](gps1.jpg)
 
 
 
